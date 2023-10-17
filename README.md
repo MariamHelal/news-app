@@ -1,4 +1,4 @@
-# news_app_course
+# news_app
 
 A new Flutter project.
 
